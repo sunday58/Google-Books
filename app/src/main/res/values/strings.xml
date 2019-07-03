@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TechBooks</string>
+    <string name="error_loading_data_from_the_google_books_api">Error Loading data from the google Books API</string>
+    <string name="search">Search</string>
+    <string name="hint_title">Insert Title</string>
+    <string name="hint_author">Insert Author(s)</string>
+    <string name="hint_publisher">Insert Publisher</string>
+    <string name="hint_ISBN">Insert ISBN</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="no_search_data">Please Insert Valid Search Terms</string>
+</resources>
